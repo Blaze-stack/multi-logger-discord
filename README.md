@@ -4,6 +4,7 @@
 
 ## Future plans:
 - Better settings
+- keylogger
 - Steam Stealer
 - ~~Logging Browser History and Passwords~~
 - Record Video or Take Screenshot
