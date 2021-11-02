@@ -22,4 +22,6 @@
 ## Showcase (old):
 ![Showcase](https://like-blaze-said.i-really-dont-want-to.live/5etZpo_r5.png)
 
-`WARN: This one is for educational purposes only! I do not recommend using it on people!`
+`note: I AM NOT RESPONSIBLE FOR WHAT YOU USE THIS PROGRAM FOR.`
+
+`WARN: This one is for educational purposes only!`
