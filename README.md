@@ -9,6 +9,7 @@
 - ~~Logging Browser History and Passwords~~
 - Record Video or Take Screenshot
 - Detailed Specs
+- reverse shell
 
 / You can recommend what to add in Issuses! \
 
